@@ -3,7 +3,7 @@ Invaders
 
 Welcome to our Space Invaders java project developed as part of our Software Development Practices class at Hanyang University. We were tasked with adding features onto a previously developed space invaders game.
 
-###Team
+### Team
 
 Our team is called Team Aliens, it comprises of 5 members.
 
@@ -13,7 +13,7 @@ Our team is called Team Aliens, it comprises of 5 members.
    * Sophie - https://github.com/sibylle221
    * Josh - https://github.com/Josholeary
 
-###Features
+### Features
 
 The following is a list of the features we added.
 
@@ -24,7 +24,7 @@ The following is a list of the features we added.
     - Add Setting function (screen resizing, game speed selecting etc)
     - Add game summary (controls/manual)
 
- ###CI/CD
+ ### CI/CD
 We used Github Actions for CI/CD, these are the specific tools we are using for this project:
 
     - Maven to build the project
