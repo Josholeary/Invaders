@@ -1,26 +1,32 @@
 Invaders
 =
-[Space Invaders](http://en.wikipedia.org/wiki/Space_Invaders) clone, written in Java.
 
-###Screenshots
-![](http://i.minus.com/ijt8HhaA8laZq.png)
+Welcome to our Space Invaders java project developed as part of our Software Development Practices class at Hanyang University. We were tasked with adding features onto a previously developed space invaders game.
 
-###Download
-[Dropbox](https://dl.dropboxusercontent.com/u/23829102/invaders.zip)
+###Team
 
-Mirror: [Mediafire](http://www.mediafire.com/download/kwv9s90j9i1o4kc/invaders.zip)
+Our team is called Team Aliens, it comprises of 5 members.
 
-###Installation
-After downloading the file above, unpack it and save it to an appropiate location.
+   * Elias - https://github.com/eliasb1
+   * Luca - https://github.com/56luca
+   * Janae - https://github.com/jfarinas96
+   * Sophie - https://github.com/sibylle221
+   * Josh - https://github.com/Josholeary
 
-Open the directory and double-click invaders.jar. In some systems (i.e. Ubuntu) you may need to select 'Open with OpenJDK 7 Runtime' or similar from the context menu.
+###Features
 
-If the Java path is not set correctly, you can also navigate to the directory from the command line and execute
+The following is a list of the features we added.
 
->java -jar invaders.jar
+    - Add dying effect (screen shake)
+    - Add SFX & BGM (background music and sound effects)
+    - Add various monsters (making higher hp monsters and different monster formations)
+    - Display HP Color (coordinating colours to reflect monster hp)
+    - Add Setting function (screen resizing, game speed selecting etc)
+    - Add game summary (controls/manual)
 
-###System Requirements
-Requires Java 7 or better.
+ #CI/CD
+We used Github Actions for CI/CD, these are the specific tools we are using for this project:
 
-###Resources
-[Space Invaders Regular (font)](http://www.fonts2u.com/space-invaders-regular.font) - &copy; kylemaoin 2010
+    - Maven to build the project
+    - CodeFactor for code checking
+
