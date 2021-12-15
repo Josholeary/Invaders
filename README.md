@@ -24,7 +24,7 @@ The following is a list of the features we added.
     - Add Setting function (screen resizing, game speed selecting etc)
     - Add game summary (controls/manual)
 
- #CI/CD
+ ###CI/CD
 We used Github Actions for CI/CD, these are the specific tools we are using for this project:
 
     - Maven to build the project
